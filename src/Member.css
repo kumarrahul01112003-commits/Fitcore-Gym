@@ -1,0 +1,107 @@
+#mdiv{
+   
+margin-left: -370px;
+margin-top: 0px;
+}
+.Mimg{
+    height: 550px;
+    width: 1520px;
+    
+}
+.mh1{
+    color: rgba(255, 255, 255, 0.474);
+     margin-left: 460px;
+    margin-top: -455px;
+    font-size: 60px;
+}
+.mh2{
+     color: rgba(255, 255, 0, 0.637);
+     margin-left: 460px;
+    margin-top: -40px;
+    font-size: 70px;
+
+}
+.Dh1{
+     margin-top: -5px;
+    font-size: 110px;
+    text-align: right;
+    color: rgba(248, 243, 243, 0.27);
+
+}
+.mcards{
+    display: flex;
+  
+
+}
+.mcard{
+     height: 340px;
+    width: 280px;
+    background-color:rgba(210, 26, 26, 0.34);
+    margin-left: 150px;
+    margin-top: 180px;
+    border-radius: 25px;
+}
+
+.mcard img{
+       height: 180px;
+    width: 280px;
+   margin-left: 0px;
+   margin-top: 0px;
+  
+     transition: all 0.5s ease;
+     border-top-right-radius: 10px;
+     
+
+}
+.md2{
+    margin-left: 1px;
+    color: white;
+    margin-top: -210px;
+    /* gap: 5px; */
+    height: 180px;
+    background-color: rgba(18, 18, 18, 0.934);
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}   
+.mh3{
+    font-size: 22px;
+    color: white;
+    padding: 15px;
+   
+
+}
+.mp{
+   
+    font-size: 14px;
+    font-weight: 700;
+    color: red;
+    margin-top: -40px;
+    margin-left: 14px;
+}
+.mp2{
+    color: rgba(255, 255, 0, 0.899);
+    margin-top: -10px;
+    margin-left: 6px;
+    font-weight: 650;
+}
+
+
+.card-body{
+    color: white;
+    margin-top: 5px;
+}
+
+.mbtn{
+    background-color: yellow;
+    margin-left: 60px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+    transition: transform 0.8s ease;
+}  
+.mbtn:hover{
+   transition: all 0.8s ease-in-out;
+    transform: scale(1.2);
+
+}

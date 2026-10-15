@@ -1,0 +1,101 @@
+#T{
+    transition: ease-in-out;
+}
+
+.nav{
+    height: 70px;
+    width: 100%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  
+    background: linear-gradient(135deg, #cec1c1, #d2c5c5, #bdbdbd);
+    
+      
+}
+.div{
+    display: flex;
+    margin-top: -100px;
+    margin-left: 700px;
+    padding: 5px;
+}
+
+  
+  
+
+
+
+.dumble{
+    height: 60px;
+    width: 130px;
+    background: none;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 60px;
+    border-style: dotted;
+    /* border-color: rgb(161, 76, 6); */
+     transition: transform 0.4s ease;
+
+}
+.dumble:hover{
+     transform: scale(1.1);
+     
+}
+
+.h2{
+    margin-left: 210px;
+    margin-top: -50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: dotted;
+    color:rgb(114, 17, 17);
+    font-style: italic;
+    transform: ;
+
+}
+.h3{
+    
+    
+    margin-left: 40px;
+    
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 400px;
+    padding-bottom: 30px;
+    color: rgb(51, 45, 45);
+    cursor: pointer
+    
+
+}
+h3,a{
+    text-decoration: none;
+    color: rgb(44, 59, 59);
+}
+h3,a:hover{
+   
+    color: rgb(200, 64, 64);
+    
+}
+.btn{
+    color:black;
+    background-color:white;
+    height: 50px;
+    width: 80px;
+    border-radius: 60px;
+    margin-left: 150px;
+    margin-top: 20px;
+    font-weight: 600;
+    font-style: calc();
+    transition: transform 0.4s ease;
+}
+.btn:hover{
+    background-color: red;
+    color:white;
+    
+    
+     transform: scale(1.1);
+}
+
